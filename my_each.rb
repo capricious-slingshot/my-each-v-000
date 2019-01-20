@@ -5,4 +5,5 @@ def my_each(obj) # put argument(s) here
 		yield(obj[i])
    i += 1
 	end
+	i.to_a
 end

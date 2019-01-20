@@ -1,4 +1,4 @@
-def my_each(obj) # put argument(s) here
+def my_each(obj)
   i = 0
 
 	while i < obj.length
